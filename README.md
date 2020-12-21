@@ -30,3 +30,6 @@ To execute the program:
 ```console
 java helloWorld
 ```
+
+## Screenshot
+![Screenshot_helloWorld](https://user-images.githubusercontent.com/64900769/102770530-9a653480-4384-11eb-8e0a-1d0353580216.png)
