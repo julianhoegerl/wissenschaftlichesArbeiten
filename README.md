@@ -6,11 +6,10 @@ This is a simple **"Hello World!"** program done with **Java**.
 
 To download this program:
   - simply copy the path to this repository (getting it via the green button "Clone")
-  - Select a folder and type 
+  - Select a folder and type the following command in your Console/Terminal to clone the repostitory in your current folder
   ```console
    git remote add repositoryPath
   ``` 
-   to clone the repostitory in your current folder
   
 ## Compile (Terminal)
 
