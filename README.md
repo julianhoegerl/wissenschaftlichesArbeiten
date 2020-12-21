@@ -8,7 +8,7 @@ To download this program:
   - simply copy the path to this repository (getting it via the green button "Clone")
   - Select a folder and type the following command in your Console/Terminal to clone the repostitory in your current folder
   ```console
-   git remote add repositoryPath
+   git remote add https://github.com/julianhoegerl/wissenschaftlichesArbeiten.git
   ``` 
   
 ## Compile
