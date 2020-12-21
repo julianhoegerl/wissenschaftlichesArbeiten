@@ -17,4 +17,7 @@ To compile the program:
 ## Execute
 
 To execute the program:
-  - type **java helloWorld**
+  - type 
+```console
+java helloWorld.
+```
