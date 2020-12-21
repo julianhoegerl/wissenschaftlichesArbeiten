@@ -1,1 +1,20 @@
 # wissenschaftlichesArbeiten
+
+This is a simple **"Hello World!"** program done with **Java**.
+
+## Download (Terminal)
+
+To download this program:
+  - simply copy the path to this repository (getting it via the green button "Clone")
+  - Select a folder and type **"git remote add repositoryPath"** to clone the repostitory in your current folder
+  
+## Compile (Terminal)
+
+To compile the program:
+  - Change the directory with the command **"cd wissenschaftlichesArbeiten"** 
+  - compile the code with **"javac helloWorld.java"**
+  
+## Execute
+
+To execute the program:
+  - type **java helloWorld**
