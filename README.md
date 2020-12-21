@@ -6,18 +6,28 @@ This is a simple **"Hello World!"** program done with **Java**.
 
 To download this program:
   - simply copy the path to this repository (getting it via the green button "Clone")
-  - Select a folder and type **"git remote add repositoryPath"** to clone the repostitory in your current folder
+  - Select a folder and type 
+  ```console
+   git remote add repositoryPath
+  ``` 
+   to clone the repostitory in your current folder
   
 ## Compile (Terminal)
 
 To compile the program:
-  - Change the directory with the command **"cd wissenschaftlichesArbeiten"** 
-  - compile the code with **"javac helloWorld.java"**
+  - Change the directory with the command 
+  ```console
+   cd wissenschaftlichesArbeiten
+  ``` 
+  - compile the code with 
+  ```console
+   javac helloWorld.java
+  ``` 
   
 ## Execute
 
 To execute the program:
-  - type 
+  
 ```console
-java helloWorld.
+java helloWorld
 ```
