@@ -5,7 +5,7 @@ This is a simple **"Hello World!"** program done with **Java** for the course **
 ## Download
 
 To download this program:
-  - simply copy the path to this repository (getting it via the green button "Clone")
+  - simply copy the path to this repository (getting it via the green button "Code")
   - Select a folder and type the following command in your Console/Terminal to clone the repostitory into your current folder
   ```console
    git remote add https://github.com/julianhoegerl/wissenschaftlichesArbeiten.git
