@@ -1,6 +1,6 @@
 # wissenschaftlichesArbeiten
 
-This is a simple **"Hello World!"** program done with **Java**.
+This is a simple **"Hello World!"** program done with **Java** for the course **Wissenschaftliches Arbeiten WiSe20/21**.
 
 ## Download
 
