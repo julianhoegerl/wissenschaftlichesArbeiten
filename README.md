@@ -2,7 +2,7 @@
 
 This is a simple **"Hello World!"** program done with **Java**.
 
-## Download (Terminal)
+## Download
 
 To download this program:
   - simply copy the path to this repository (getting it via the green button "Clone")
@@ -11,7 +11,7 @@ To download this program:
    git remote add repositoryPath
   ``` 
   
-## Compile (Terminal)
+## Compile
 
 To compile the program:
   - Change the directory with the command 
